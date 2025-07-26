@@ -1,0 +1,18 @@
+{
+  "eval_set_id": "evalseta6acb3",
+  "name": "evalseta6acb3",
+  "description": null,
+  "eval_cases": [
+    {
+      "eval_id": "casebcda96",
+      "conversation": [],
+      "session_input": {
+        "app_name": "multi_modal_agent",
+        "user_id": "user",
+        "state": {}
+      },
+      "creation_timestamp": 1753539943.9842608
+    }
+  ],
+  "creation_timestamp": 1753539406.461621
+}
